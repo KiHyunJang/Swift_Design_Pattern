@@ -30,14 +30,14 @@
 한 객체가 혼자 수행할 수 없는 작업을 여러 개의 객체로 어떻게 분배하는지, 그렇게 하면서도 객체 사이의 결합도를 최소하는 것에 중점을 둔다.   
 
 ------------
-* Creational Pattern (생성 패턴)
+* [Creational Pattern(생성 패턴)](https://github.com/KiHyunJang/Swift_Design_Pattern/blob/main/Creational_Pattern/Creational_Pattern.md)
     * Abstract Factory
     * Builder
     * Factory Method
     * Prototype
     * Singleton
 
-* Structual Pattern (구조 패턴)
+* [Structual Pattern(구조 패턴)](https://github.com/KiHyunJang/Swift_Design_Pattern/blob/main/Structual_Pattern/Structual_Pattern.md)
     * Adapter
     * Bridge
     * Composite
@@ -46,7 +46,7 @@
     * Flyweight
     * Proxy
 
-* Behavioral Pattern (행동 패턴)
+* [Behavioral Pattern(행동 패턴)](https://github.com/KiHyunJang/Swift_Design_Pattern/blob/main/Behavioral_Pattern/Behavioral_Pattern.md)
     * Chain Of Responsibilty
     * Command
     * Interpreter
