@@ -34,7 +34,7 @@
     * Abstract Factory
     * [Builder](https://github.com/KiHyunJang/Swift_Design_Pattern/blob/main/Creational_Pattern/Builder_Pattern.md)
     * Factory Method
-    * Prototype
+    * [Prototype](https://github.com/KiHyunJang/Swift_Design_Pattern/blob/main/Creational_Pattern/Prototype%20Pattern.md)
     * Singleton
 
 * [Structual Pattern(구조 패턴)](https://github.com/KiHyunJang/Swift_Design_Pattern/blob/main/Structual_Pattern/Structual_Pattern.md)
