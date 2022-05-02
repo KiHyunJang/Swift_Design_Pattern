@@ -32,7 +32,7 @@
 ------------
 * [Creational Pattern(생성 패턴)](https://github.com/KiHyunJang/Swift_Design_Pattern/blob/main/Creational_Pattern/Creational_Pattern.md)
     * Abstract Factory
-    * Builder
+    * [Builder](https://github.com/KiHyunJang/Swift_Design_Pattern/blob/main/Creational_Pattern/Builder_Pattern.md)
     * Factory Method
     * Prototype
     * Singleton
