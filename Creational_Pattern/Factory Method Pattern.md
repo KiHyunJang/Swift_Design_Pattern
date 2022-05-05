@@ -7,10 +7,10 @@
 쉽게 말하면, 객체 생성을 서브 클래스가 하도록 처리하는 패턴이다.   
 이로 인해서 객체 생성을 캡슐화할 수 있고, 부모 클래스는 자식 클래스가 어떤 객체를 생성하는지 몰라도 상관없다.   
    
-Product : Concrete Product가 해야할 동작들을 선언하는 객체   
-Concreate Product : Product를 채택하며 그에 맞게 만든 실제 객체   
-Creator : Product 인터페이스를 준수하는 새 객체를 반환하는 팩토리 메스드를 선언하며, Factory의 기본 역할을 정의하는 객체   
-Concrete Creator(Factory) : Creator를 채택하고 있으며 product에 맞는 구체적 기능을 구현   
+**Product** : Concrete Product가 해야할 동작들을 선언하는 객체   
+**Concreate** Product : Product를 채택하며 그에 맞게 만든 실제 객체   
+**Creator** : Product 인터페이스를 준수하는 새 객체를 반환하는 팩토리 메스드를 선언하며, Factory의 기본 역할을 정의하는 객체   
+**Concrete Creator(Factory)** : Creator를 채택하고 있으며 product에 맞는 구체적 기능을 구현   
    
 ## 팩토리 매서드 패턴의 장점
 - 프로토콜로 기본 기능을 정의해주었기 때문에 기존 코드를 변경하지 않고, 새로운 하위클래스 추가가 가능하기 때문에 유연하고 확장성이 좋다.
