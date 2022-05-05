@@ -31,7 +31,7 @@
 
 ------------
 * [Creational Pattern(생성 패턴)](https://github.com/KiHyunJang/Swift_Design_Pattern/blob/main/Creational_Pattern/Creational_Pattern.md)
-    * Abstract Factory
+    * [Abstract Factory](https://github.com/KiHyunJang/Swift_Design_Pattern/blob/main/Creational_Pattern/Abstract%20Factory%20Method%20Pattern.md)
     * [Builder](https://github.com/KiHyunJang/Swift_Design_Pattern/blob/main/Creational_Pattern/Builder_Pattern.md)
     * [Factory Method](https://github.com/KiHyunJang/Swift_Design_Pattern/blob/main/Creational_Pattern/Factory%20Method%20Pattern.md)
     * [Prototype](https://github.com/KiHyunJang/Swift_Design_Pattern/blob/main/Creational_Pattern/Prototype%20Pattern.md)
@@ -53,7 +53,7 @@
     * Iterator
     * Mediator
     * Memento
-    * Observer
+    * [Observer](https://github.com/KiHyunJang/Swift_Design_Pattern/blob/main/Behavioral_Pattern/Observer%20Pattern.md)
     * State
     * Strategy
     * Template Method
